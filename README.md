@@ -3,7 +3,7 @@ Hi, I’m Phil Mickel!
 - Currently, I am focused on medicinal chemistry within a research group while actively seeking opportunities to integrate computational methods into our projects. My aim is to utilize my expertise to develop new solutions and integrate current computational methods.
 - This GitHub page serves as a portfolio, showcasing my progress in C++, Python, bash, and TCL, along with my ongoing efforts to introduce computational methodologies to my lab mates.
 
-(1) Carmeli, I.*; Bounioux, C. M.*; **Mickel, P.***; Richardson, M. B.; Templeman, Y.; Scofield, J. M. P.; Qiao, G. G.; Rosen, B. A.; Yusupov, Y.; Meshi, L.; Voelcker, N. H.; Diéguez, O.; Miloh, T.; Král, P.; Cohen, H.; Richter, S. E. Unidirectional Rotation of Micromotors on Water Powered by PH-Controlled Disassembly of Chiral Molecular Crystals. Nat Commun 2023, 14 (1), 2869. https://doi.org/10.1038/s41467-023-38308-9. *These authors contributed equally to this work.
+(1) Carmeli, I./*; Bounioux, C. M./*; **Mickel, P.***; Richardson, M. B.; Templeman, Y.; Scofield, J. M. P.; Qiao, G. G.; Rosen, B. A.; Yusupov, Y.; Meshi, L.; Voelcker, N. H.; Diéguez, O.; Miloh, T.; Král, P.; Cohen, H.; Richter, S. E. Unidirectional Rotation of Micromotors on Water Powered by PH-Controlled Disassembly of Chiral Molecular Crystals. Nat Commun 2023, 14 (1), 2869. https://doi.org/10.1038/s41467-023-38308-9. *These authors contributed equally to this work.
 
 (2) Chen, Y.; **Mickel, P.**; Pei, H.; Wen, Y.; Guan, X.; Wang, Y.; Wang, X.; Mhtachem, O. A.; Zhang, C.; Nie, H.; Zhou, X.; Kral, P.; Xie, X. Bioinspired Separator with Ion-Selective Nanochannels for Lithium Metal Batteries. ACS Appl. Mater. Interfaces 2023, 15 (14), 18333–18342. https://doi.org/10.1021/acsami.3c01311.
 
